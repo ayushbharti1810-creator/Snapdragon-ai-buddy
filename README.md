@@ -14,8 +14,7 @@ Normal AI needs internet. This runs 100% on-device using Snapdragon NPU - no dat
 ## Tech Stack
 - Qualcomm AI Hub / QNN
 - ONNX Runtime + Snapdragon NPU
-- Python + FastAPI
+- C language
 
 ## How to Run
-pip install -r requirements.txt
-python app.py
+-gcc main.c -o buddy ./buddy
