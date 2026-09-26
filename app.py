@@ -5,7 +5,7 @@ int main() {
     char input[100];
 
     printf("Welcome to Snapdragon AI Buddy\n");
-    printf("This is my college project for Qualcomm Hackathon\n");
+    printf("This is my  project for Qualcomm Hackathon\n");
     printf("It runs offline on device\n\n");
 
     while(1) {
